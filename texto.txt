@@ -1,4 +1,3 @@
 texto
-
-
+echo "Nova frase do wesley_clemente." >> texto.txt
 Você não pode conectar os pontos olhando para a frente;
